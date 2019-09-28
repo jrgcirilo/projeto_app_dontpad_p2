@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">Dontpad Tag</string>
+    <string name="action_settings">Configurações</string>
+    <string name="txtButton">Texto</string>
+    <string name="txtButton_1">Fotos</string>
+    <string name="txtEditText">Escreva uma TAG</string>
+    <string name="txtTextBox">Entre com um texto</string>
+    <string name="txtTextView" translatable="false">TAG</string>
+    <string name="ftButton">Texto</string>
+    <string name="ftButton_1">Fotos</string>
+    <string name="ftTextView" translatable="false">TAG</string>
+    <string name="ftEditText">Escreva uma TAG</string>
+    <string name="cdTxtEditText">Escreva uma TAG</string>
+    <string name="cdTxtTextBox">Entre com uma TAG</string>
+    <string name="cdTxtButton">Botão texto</string>
+    <string name="cdTxtButton_1">Botão Fotos</string>
+    <string name="cdFtEditText" >Escreva uma TAG</string>
+    <string name="cdFtGallery">Galeria de fotos</string>
+    <string name="cdFtButton">Botão Texto</string>
+    <string name="cdFtButton_1">Botão Fotos</string>
+    <string name="cdFtCamButton">Botão Câmera</string>
+
+</resources>

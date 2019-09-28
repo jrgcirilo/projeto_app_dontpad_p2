@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ftButton">テキスト</string>
+    <string name="ftButton_1">写真</string>
+    <string name="ftEditText">タグを書く</string>
+    <string name="txtButton">テキスト</string>
+    <string name="txtButton_1">写真</string>
+    <string name="txtEditText">タグを書く</string>
+    <string name="txtTextBox">テキストを入力してください</string>
+    <string name="cdTxtEditText">タグを書く</string>
+    <string name="cdTxtTextBox">テキストを入力してください</string>
+    <string name="cdTxtButton_1">写真ボタン</string>
+    <string name="cdTxtButton">テキストボタン</string>
+    <string name="cdFtButton">テキストボタン</string>
+    <string name="cdFtButton_1">写真ボタン</string>
+    <string name="cdFtEditText">タグを書く</string>
+    <string name="cdFtGallery">フォトギャラリー</string>
+    <string name="action_settings">設定</string>
+    <string name="cdFtCamButton">カメラボタン</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ftButton">Text</string>
+    <string name="ftButton_1">Bild</string>
+    <string name="ftEditText">Schreibe einen tag</string>
+    <string name="txtButton">Text</string>
+    <string name="txtButton_1">Bild</string>
+    <string name="txtEditText">Schreibe einen tag</string>
+    <string name="txtTextBox">Geben eie einen Text ein</string>
+    <string name="cdTxtTextBox">Geben eie einen Text ein</string>
+    <string name="cdTxtEditText">Schreibe einen tag</string>
+    <string name="cdTxtButton">Textschaltfläche</string>
+    <string name="cdTxtButton_1">BildSchaltfläche</string>
+    <string name="cdFtButton">Textschaltfläche</string>
+    <string name="cdFtButton_1">BildSchaltfläche</string>
+    <string name="cdFtEditText">Schreibe einen tag</string>
+    <string name="cdFtGallery">Bildgalerie</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="cdFtCamButton">Kamerataste</string>
+</resources>

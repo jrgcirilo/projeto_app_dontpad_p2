@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ftButton">Texto</string>
+    <string name="ftButton_1">Fotos</string>
+    <string name="ftEditText">Escribe una TAG</string>
+    <string name="txtButton">Texto</string>
+    <string name="txtButton_1">Fotos</string>
+    <string name="txtEditText">Escribe una TAG</string>
+    <string name="txtTextBox">Ingrese un texto</string>
+    <string name="cdTxtButton">Botón Texto</string>
+    <string name="cdTxtButton_1">Botón Fotos</string>
+    <string name="cdTxtEditText">Escribe una TAG</string>
+    <string name="cdTxtTextBox">Ingrese un texto</string>
+    <string name="cdFtButton">Botón Texto</string>
+    <string name="cdFtButton_1">Botón Fotos</string>
+    <string name="cdFtEditText">Escribe una TAG</string>
+    <string name="cdFtGallery">Galería de fotos</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="cdFtCamButton">Botón de cámara</string>
+</resources>
