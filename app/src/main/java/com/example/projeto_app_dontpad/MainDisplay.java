@@ -15,7 +15,7 @@ public class MainDisplay extends AppCompatActivity {
         setContentView(R.layout.display_main);
 
         dspImageView = findViewById(R.id.displayImageView);
-        int img = getIntent().getIntExtra("Image Int", R.drawable.ic_launcher_background);
+        int img = getIntent().getIntExtra("img", R.drawable.ic_launcher_background);
         dspImageView.setImageResource(img);
     }
 }
